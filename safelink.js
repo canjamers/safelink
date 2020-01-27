@@ -122,11 +122,11 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://www.droidofficial.org/2019/12/cara-tembak-paket-murah-telkomsel-di-android-terbaru.html",
+      "https://www.droidofficial.org/2019/08/cara-merubah-kuota-maxstreamvideomax-ke.html",
+      "https://www.droidofficial.org/2019/07/kumpulan-kode-reedem-hadiah-game-mobile.html",
+      "https://www.droidofficial.org/2019/07/cara-membuat-nama-facebook-blank-kosong.html",
+      "https://www.droidofficial.org/2019/07/tutorial-opok-telkomsel-terbaru-work.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
